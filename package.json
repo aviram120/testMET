@@ -1,0 +1,11 @@
+{
+    "name": "aviramMET",
+    "version": "0.0.1",
+    "main": "aviramMET.js",
+    "scripts": {
+        "start": "aviramMET.js"
+    },
+    "engines": {
+        "node": "0.12.6"
+    }
+}
